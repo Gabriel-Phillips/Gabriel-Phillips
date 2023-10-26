@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT Projects</h2>
 
-- <b>Simple Networking Project (Cisco Packet Tracer)</b>
-  - [Simple Networking Project Using Cisco Packet Tracer](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Home Lab Running Active Directory // Add Users w/PowerShell</b>
+  - [Home Lab Running Active Directory](https://github.com/Gabriel-Phillips/ActiveDirectoryHomeLab)
 
 
 <h2>Certifications</h2>
