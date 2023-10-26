@@ -8,7 +8,6 @@
 
 <h2>Certifications</h2>
 
-- [PearsonVUE IT Specialist Networking](https://imgur.com/a/UJFhTq0)
 - [CompTIA Network+](https://imgur.com/a/TLMrijy)
 
 
