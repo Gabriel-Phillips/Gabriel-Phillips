@@ -8,7 +8,8 @@
 
 <h2>Certifications</h2>
 
-- [CompTIA Network+](https://imgur.com/a/TLMrijy)
+- [CompTIA Network+](https://i.imgur.com/aCVeSNm.png)
+- [CompTIA Security+](https://i.imgur.com/1XYvjmN.png)
 
 
 <h2>📺 YouTube Videos</h2>
