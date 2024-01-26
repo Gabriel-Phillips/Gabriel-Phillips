@@ -4,6 +4,8 @@
 
 - <b>Home Lab Running Active Directory // Add Users w/PowerShell</b>
   - [Home Lab Running Active Directory](https://github.com/Gabriel-Phillips/ActiveDirectoryHomeLab)
+- <b>Active Directory and PowerShell Administration</b>
+  - [Create User Accounts, Groups, and OUs // Delegate Administrative Tasks // Create and Link GPOs](https://github.com/Gabriel-Phillips/ActiveDirectoryandPowerShellAdministration)
 
 
 <h2>Certifications</h2>
