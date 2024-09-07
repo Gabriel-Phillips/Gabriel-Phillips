@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel! <br/><a href="https://www.linkedin.com/in/gabrieldphillips/">IT Specialist</a>, <a href="https://www.linkedin.com/in/gabrieldphillips/">Network Technician</a>, <a href="https://www.youtube.com/@GabrielVids">Occasional YouTuber</a></h1>
+<h1>Hi, I'm Gabriel! <br/><a href="https://www.linkedin.com/in/gabrieldphillips/">IT Specialist</a>, <a href="https://www.linkedin.com/in/gabrieldphillips/">System Admin</a>, <a href="https://www.youtube.com/@GabrielVids">Occasional YouTuber</a></h1>
 
 <h2>👨‍💻 IT Projects</h2>
 
