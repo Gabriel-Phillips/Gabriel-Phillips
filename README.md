@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel! <br/><a href="https://www.linkedin.com/in/gabrieldphillips/">IT Specialist</a>, <a href="https://www.linkedin.com/in/gabrieldphillips/">System Admin</a>, <a href="https://www.youtube.com/@Gabriel-YTs">Occasional YouTuber</a></h1>
+<h1>Hi, I'm Gabriel! <br/><a href="https://www.linkedin.com/in/gabrieldphillips/">IT Specialist</a>, <a href="https://www.linkedin.com/in/gabrieldphillips/">System Admin</a>, <a href="https://www.youtube.com/@Gabeuriel">Occasional YouTuber</a></h1>
 
 <h2>👨‍💻 IT Projects</h2>
 
@@ -22,4 +22,4 @@
 <h2> 🤳 Connect with me:</h2>
 
 - [Linkedin](https://linkedin.com/in/gabrieldphillips)
-- [YouTube](https://www.youtube.com/@Gabriel-YTs)
+- [YouTube](https://www.youtube.com/@Gabeuriel)
