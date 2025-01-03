@@ -16,7 +16,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [24HRS IN FUKUOKA JAPAN](https://www.youtube.com/watch?v=9dxGL17S6d0&t=153s&ab_channel=GabrielVlogs)
+- [24HRS IN FUKUOKA JAPAN](https://www.youtube.com/watch?v=9dxGL17S6d0&ab_channel=Gabriel%2F%EA%B0%80%EB%B8%8C%EB%A6%AC%EC%97%98)
 
 
 <h2> 🤳 Connect with me:</h2>
